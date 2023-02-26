@@ -32,6 +32,17 @@ func TestErrorLayer_Wrap(t *testing.T) {
 		// assert
 		assert.Equal(t, "error wrap. error base", msg)
 	})
+
+	t.Run("Error Layer with format", func(t *testing.T) {
+		// arrange
+		err := Wrapf(err, "error wrap %s", "format")
+
+		// act
+		msg := err.Error()
+
+		// assert
+		assert.Equal(t, "error wrap format. error base", msg)
+	})
 }
 
 func TestErrorLayer_Unwrap(t *testing.T) {
