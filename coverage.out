@@ -1,0 +1,26 @@
+mode: set
+github.com/LNMMusic/gotools/tcase/tcase.go:4.41,6.2 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:15.43,17.2 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:18.41,20.2 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:21.35,23.2 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:24.43,26.2 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:27.37,29.2 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:33.39,35.26 2 1
+github.com/LNMMusic/gotools/tcase/tcase.go:39.2,39.30 1 1
+github.com/LNMMusic/gotools/tcase/tcase.go:35.26,37.3 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:11.37,13.18 2 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:17.2,17.12 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:13.18,15.3 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:20.32,22.2 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:27.44,29.2 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:30.65,32.2 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:35.30,36.38 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:39.2,39.12 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:36.38,38.3 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:43.43,45.19 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:50.2,50.17 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:57.2,57.14 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:45.19,47.3 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:50.17,51.20 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:54.3,54.20 1 1
+github.com/LNMMusic/gotools/errlayer/errlayer.go:51.20,53.4 1 1
