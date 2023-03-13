@@ -101,6 +101,14 @@ func TestErrorLayer_Unwrap(t *testing.T) {
 
 func TestErrorLayer_Target(t *testing.T) {
 	// arrange
+	t.Run("Target is nil and error is nil", func(t *testing.T) {
+		// act
+		target := Target(nil, nil)
+
+		// assert
+		assert.True(t, target)
+	})
+
 	t.Run("Target is nil", func(t *testing.T) {
 		// arrange
 		err := New("error base")
