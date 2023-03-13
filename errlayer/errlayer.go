@@ -41,6 +41,11 @@ func Unwrap(err error) error {
 
 // Target: check if target error is in chain of errors
 func Target(err error, target error) bool {
+	// check err and target are nill
+	if err == nil && target == nil {
+		return true
+	}
+
 	// check target
 	if target == nil {
 		return false
